@@ -3,7 +3,7 @@
 This repository contains done programming exercises from https://pl.spoj.com
 
 1. Number converter (directory number_converter)
-2. 
+
  https://pl.spoj.com/problems/TCONNUM/
  
  Every integer number n is represented in positional number system of base r by a sequence of digits 0 ≤ di < r, so the value is equal to:
