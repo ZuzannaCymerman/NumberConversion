@@ -5,6 +5,11 @@
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+.vscode/
+.DS_Store
+out
+spoj
+spoj.dSYM
 # Local History for Visual Studio Code
 .history/
 
