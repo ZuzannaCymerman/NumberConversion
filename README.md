@@ -1,4 +1,4 @@
-# Spoj-number-conversion
+#NumberConversion
 
 This is a number converter based on spoj exercise https://pl.spoj.com/problems/TCONNUM/
 
