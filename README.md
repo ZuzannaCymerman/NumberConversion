@@ -21,12 +21,19 @@ Text grouped in [ ] does not appear in the input and output file.
 
 Example
 Input:
+
 3
+
 231 10 2
+
 ABC 15 10
+
 XYZ 36 2
 
 Output:
+
 11100111
+
 2427
+
 1010101111111011
