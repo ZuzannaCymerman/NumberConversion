@@ -22,14 +22,3 @@ The first line shows the number of tests.
 For each test, the number n is given first, and then in the next line of the number a1 ..., an.
 
 It can be assumed that both the numbers ai and the result are in the range [1..264-1].
-
-Exit
-Provide the result on a separate line for each case.
-
-Example
-Input:
-2
-3
-2 3 5
-3
-6 9 15
