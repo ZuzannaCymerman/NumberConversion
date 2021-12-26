@@ -14,6 +14,10 @@ Your task is to convert a given number in r-base represantation into s-base repr
 
 ### 2. NWW
 
+directory nww
+
+https://pl.spoj.com/problems/NWW/
+
 Given are n natural numbers a1, ..., an. Find the least common multiple of these numbers, i.e. the smallest natural number M such that for each i the number ai divides M without a remainder.
 
 Entry
