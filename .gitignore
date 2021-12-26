@@ -1,3 +1,4 @@
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -14,6 +15,6 @@ number_converter/number_converter
 number_converter/number_converter.dSYM/
 # Local History for Visual Studio Code
 .history/
-*/bin
+
 # Built Visual Studio Code Extensions
 *.vsix
