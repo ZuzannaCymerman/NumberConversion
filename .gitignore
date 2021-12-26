@@ -9,7 +9,7 @@
 .DS_Store
 out
 spoj
-spoj.dSYM
+*.dSYM
 number_converter/number_converter
 number_converter/number_converter.dSYM/
 # Local History for Visual Studio Code
