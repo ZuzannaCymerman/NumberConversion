@@ -33,6 +33,27 @@ directory dodawanie
 
 This exercise was an external (not from spoj) exercise. Given are 2 numbers of unlimited length. Add those numbers. Because of the unlimited length the numbers have to be converted from string to a number and then added digit by digit. 
 
+### 4. Magical colorful cats 
+
+directory magical_colorful_cats
+
+https://www.spoj.com/problems/BLCATS/
+
+There is a circle of n cats, includes white cats, red cats and green cats. When two cats of different colors talk with each other, they both change to third color. If they have same color, nothing will happen.
+
+At each step, the 1st cat talks with 2nd cat, the 2nd cat talks with the 3rd cat,… and the nth cat talks with 1st cat.
+
+Given the original color of n cats, your task is find the color of n cats after k steps.
+
+Input:
+
+First line : n and k (1 ≤ n ≤ 50000, 1 ≤ k ≤ 109)
+
+Second line : n characters, the i-th charater denotes color of the i-th cat at first state
+
+Output:
+
+n charaters denotes the color of n cats after k steps.
 
 
 
