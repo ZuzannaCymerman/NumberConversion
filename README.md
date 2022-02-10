@@ -27,7 +27,7 @@ For each test, the number n is given first, and then in the next line of the num
 
 It can be assumed that both the numbers ai and the result are in the range [1..264-1].
 
-### 3.Dodawanie
+### 3. Dodawanie
 
 directory dodawanie
 
