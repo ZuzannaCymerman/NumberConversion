@@ -26,3 +26,13 @@ The first line shows the number of tests.
 For each test, the number n is given first, and then in the next line of the number a1 ..., an.
 
 It can be assumed that both the numbers ai and the result are in the range [1..264-1].
+
+###.Dodawanie
+
+directory dodawanie
+
+This exercise was an external (not from spoj) exercise. Given are 2 numbers of unlimited length. Add those numbers. Because of the unlimited length the numbers have to be converted from string to a number and then added digit by digit. 
+
+
+
+
