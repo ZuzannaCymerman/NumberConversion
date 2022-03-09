@@ -1,6 +1,6 @@
-# SpojExercises
+# Exercises
 
-This repository contains done programming exercises from https://pl.spoj.com
+This repository contains done programming exercises from various sources.
 
 ### 1. Number converter
 
@@ -31,7 +31,7 @@ It can be assumed that both the numbers ai and the result are in the range [1..2
 
 directory dodawanie
 
-This exercise was an external (not from spoj) exercise. Given are 2 numbers of unlimited length. Add those numbers. Because of the unlimited length the numbers have to be converted from string to a number and then added digit by digit. 
+This exercise was an external exercise. Given are 2 numbers of unlimited length. Add those numbers. Because of the unlimited length the numbers have to be converted from string to a number and then added digit by digit. 
 
 ### 4. Magical colorful cats 
 
@@ -54,6 +54,24 @@ Second line : n characters, the i-th charater denotes color of the i-th cat at f
 Output:
 
 n charaters denotes the color of n cats after k steps.
+
+### 5. Xor Cipher
+
+directory xor_cipher
+
+https://edabit.com/challenge/nWfncGvPyxwBLz7rx
+
+In XOR Cipher, encoding is done by an XOR operation on two given strings. If the strings are of different lengths then the output should be the length of the shorter string. Cut the length of the longer string to the same size as the smaller string before XOR operation.
+
+Given two strings of msg1 and msg2, return the encoded message.
+
+XORCipher("11", "22") ➞ "33"
+// 11 XOR 22 = 33
+
+XORCipher("1020304", "403201") ➞ "501231"
+
+XORCipher("c611d9bdd9de38b9eb", "23a0745505d4d25494") ➞ "e5b1ade8dc0aeaed7f"
+
 
 
 
